@@ -21,7 +21,9 @@ body{
     font-size: 20px;
     height: 30px;
     line-height: 10px;
-    
+    border-radius: 10px;
+    border-color: transparent;
+    outline: none;
 }
 
 .btn{
