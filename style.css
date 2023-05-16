@@ -24,6 +24,25 @@ body{
     
 }
 
+.btn{
+    border-radius: 30px;
+    border: 30px;
+    height: 30px;
+    width: 100px;
+    background-color: blue;
+    color: aliceblue;
+    box-shadow: 0px 0px 10px #fff;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: aquamarine;
+    color: black;
+    transition: all 0.3s;
+    
+
+}
+
 .Payment{
     font-weight: 600;
     font-size: 20px;
